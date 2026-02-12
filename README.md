@@ -142,10 +142,6 @@
 ---
 
 <h2 align="left">📈 My Github History!</h2>
-<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Intelligence08&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intelligence08&theme=tokyonight" height="200"/>
-</div>
 
 ![Snake](https://github.com/Intelligence08/Intelligence08/blob/output/github-contribution-grid-snake.svg)
 
