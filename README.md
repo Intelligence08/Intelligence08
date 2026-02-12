@@ -1,15 +1,48 @@
 <!-- Banner -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=200&section=header&text=Welcome%20&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Senior%20AI%20Engineer&descSize=20&descAlign=50&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Welcome&fontSize=50&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full-Stack%20%7C%20AI%20%7C%20App%20Engineer&descSize=20&descAlign=50&animation=twinkling" />
 </p>
 
-**A results-driven AI Engineer building and deploying end-to-end machine learning solutions. Skilled in everything from data pipeline development to production-ready model deployment. Expert in applying advanced deep learning, natural language processing (NLP), and cloud-native technologies to create scalable, intelligent systems that drive automation and innovation.**
-<br/>
+# 👋 Senior Full-Stack | AI | App Engineer
+
+I design and build **scalable, production-ready applications** powered by AI.
+
+From backend architecture and frontend systems to AI pipelines and real-time applications, I specialize in building intelligent software that performs at scale.
+
+---
+
+## 🚀 What I Build
+
+### 🧠 AI Systems & LLM Engineering
+- RAG pipelines & vector search systems  
+- Multi-agent architectures  
+- Real-time AI (Voice, Video, WebRTC)  
+- Model training & deployment (PyTorch / TensorFlow)  
+- AI automation & workflow orchestration  
+
+### 🌐 Full-Stack Web Applications
+- React, Next.js, Vue  
+- Node.js, FastAPI, Express  
+- REST & GraphQL APIs  
+- Microservices & scalable backend systems  
+- Secure authentication & multi-tenant architecture  
+
+### 📱 App Development
+- Cross-platform apps (React Native, Flutter)  
+- Backend-driven mobile apps  
+- Real-time communication systems  
+- Streaming & WebRTC-based applications  
+
+### ⚙️ DevOps & Cloud Infrastructure
+- Docker & Kubernetes  
+- AWS, GCP, Azure  
+- CI/CD pipelines  
+- High-availability production deployments  
 
 ---
 
 <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
+   <table align="center">
     <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -54,6 +87,14 @@
             <br>Next.js
         </td>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+            <br>React Native
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+            <br>Flutter
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
             <br>FastAPI
         </td>
@@ -77,6 +118,8 @@
             <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
             <br>GCP
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
             <br>Azure
@@ -85,8 +128,6 @@
             <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
             <br>Linux
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
             <br>MySQL
@@ -115,16 +156,9 @@
             <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
             <br>CI/CD
         </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
-            <br>LaTeX
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-            <br>VS Code
-        </td>
     </tr>
 </table>
+
 
 
 </div>
