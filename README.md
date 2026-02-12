@@ -147,7 +147,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intelligence08&theme=tokyonight" height="200"/>
 </div>
 
-<!-- ![Snake](https://github.com/Intelligence08/Intelligence08/blob/output/github-contribution-grid-snake.svg) -->
+![Snake](https://github.com/Intelligence08/Intelligence08/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
