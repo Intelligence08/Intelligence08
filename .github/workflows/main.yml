@@ -9,10 +9,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
-    - master
+    - main
     
   
 
@@ -28,7 +28,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: "mixail0916"
+          github_user_name: "Intelligence08"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
